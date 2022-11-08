@@ -1,4 +1,4 @@
-# List-Decentralized-Applications-DApps-
+# List-Decentralized-Applications-DApps
 A decentralised application (DApp, dApp, Dapp, or dapp) is an application that can operate autonomously, typically through the use of smart contracts, that run on a decentralized computing, blockchain or other distributed ledger system.
 1. Uniswap
 2. Pancake Swap
